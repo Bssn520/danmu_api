@@ -126,7 +126,7 @@ Settings > Functions > Advanced Setting > Function Region 切换为 Hong Kong，
 ## 部署到 腾讯云 edgeone pages 【推荐】
 
 ### 一键部署
-[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?template=https://github.com/huangxd-/danmu_api&project-name=danmu-api&root-directory=.%2F&env=TOKEN)
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?template=https://github.com/Bssn520/danmu_api&project-name=danmu-api&root-directory=.%2F&env=TOKEN)
 
 > 注意：部署时请在环境变量配置区域填写你的TOKEN值，该变量将用于API服务的身份验证相关功能
 > 
